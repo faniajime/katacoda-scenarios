@@ -5,8 +5,8 @@
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
-      "text": "step1.md"
+      "title": "1 - Sentencias",
+      "text": "Sentencias.md"
     }],
     "intro": {
       "text": "intro.md",
