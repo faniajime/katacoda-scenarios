@@ -1,8 +1,8 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
-  "difficulty": "beginner",
-  "time": "2 minutes",
+  "title": "Principios de programación en Python",
+  "description": "Este es el taller del Innovation Center de Programación en Python",
+  "difficulty": "Principiante",
+  "time": "1 hora a 1 hora y 30 minutos",
   "details": {
     "steps": [{
       "title": "1 - Sentencias",
