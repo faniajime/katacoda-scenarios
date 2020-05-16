@@ -3,6 +3,7 @@
   "description": "¡Empecemos a aprender Python!",
   "difficulty": "Principiante",
   "time": "1 hora a 1 hora y 30 minutos",
+  "icon": fa-docker,
   "details": {
     "steps": [{
       "title": "1 - Sentencias",
