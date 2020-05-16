@@ -1,4 +1,5 @@
 **¡Bienvenido al training de python del IC!**
+
 En este training veremos:
 * Ejecución de Python
 * Sentencias
