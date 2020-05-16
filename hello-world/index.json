@@ -1,28 +1,26 @@
 {
-  "title": "Creating a Katacoda Course",
-  "description": "Learn how to create a collection of Katacoda scenarios into a course",
+  "title": "Hello World Scenario",
+  "description": "Your First Scenario",
+  "difficulty": "beginner",
+  "time": "2 minutes",
   "details": {
-    "steps": [
-      {
-        "title": "Step 1 - Pathway Files",
-        "text": "step1.md"
-      },
-      {
-        "title": "Step 2 - Reusing Scenarios",
-        "text": "step2.md"
-      }
-    ],
+    "steps": [{
+      "title": "Step 1 - Run Command",
+      "text": "step1.md"
+    }],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "credits": ""
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "node"
+    "imageid": "bash"
   }
 }
