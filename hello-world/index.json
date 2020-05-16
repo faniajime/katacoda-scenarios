@@ -7,6 +7,9 @@
     "steps": [{
       "title": "Paso 1 - Correr Python",
       "text": "step1.md"
+    }{
+      "title": "Paso 2 - Sentencias",
+      "text": "Sentencias.md"
     }],
     "intro": {
       "text": "intro.md",
