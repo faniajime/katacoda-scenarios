@@ -7,13 +7,13 @@
   "details": {
     "steps": [
       {
-      "title": "Primeros pasos",
-      "text": "introd.md"
+        "title": "Primeros pasos",
+        "text": "introd.md"
       }
       {
       "title": "1 - Sentencias",
       "text": "Sentencias.md"
-     }
+      }
     ],
     "intro": {
       "text": "intro.md",
