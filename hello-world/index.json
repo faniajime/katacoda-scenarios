@@ -5,13 +5,16 @@
   "time": "1 hora a 1 hora y 30 minutos",
   "icon": "fa-docker",
   "details": {
-    "steps": [{
+    "steps": [
+      {
       "title": "Primeros pasos",
       "text": "introd.md"
-    }{
+      }
+      {
       "title": "1 - Sentencias",
       "text": "Sentencias.md"
-    }],
+     }
+    ],
     "intro": {
       "text": "intro.md",
       "credits": ""
