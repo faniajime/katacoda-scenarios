@@ -1,53 +1,28 @@
-
 {
-  "pathwayTitle": "Bienvenido al training de Python del IC",
-  "title": "Training de Python",
-  "description": "Empecemos a aprender Python!",
-  "difficulty": "beginner",
-  "time": "1h to 1:30h",
+  "title": "Creating a Katacoda Course",
+  "description": "Learn how to create a collection of Katacoda scenarios into a course",
   "details": {
     "steps": [
       {
-        "title": "Primeros pasos",
-        "text": "introd.md"
+        "title": "Step 1 - Pathway Files",
+        "text": "step1.md"
       },
       {
-        "title": "Paso 1 - Sentencias",
-        "text": "Sentencias.md"
+        "title": "Step 2 - Reusing Scenarios",
+        "text": "step2.md"
       }
     ],
     "intro": {
-      "text": "intro.md",
-      "credits": "",
+      "text": "intro.md"
     },
     "finish": {
       "text": "finish.md"
-    },
-    "assets": {
-      "client": [
-        {
-          "file": "docker-compose.yml",
-          "target": "~/"
-        }
-      ],
-      "host01": [
-        {
-          "file": "config.yml",
-          "target": "~/"
-        }
-      ]
     }
   },
-  "files": [
-    "app.js"
-  ],
   "environment": {
-    "showdashboard": true,
-    "dashboards": [{"name": "Tab Name", "port": 80}, {"name": "Tab Name", "port": 8080}],
-    "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal. A safe place to learn and execute commands.\u001b[m\r\n"
+    "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "node"
   }
 }
