@@ -25,5 +25,4 @@ Este comando obtiene un objeto de la lista por índice:
 
 Este comando obtiene el tamaño de una lista:
 
-```pythonlen(mi_lista)
-``` {{execute}}
+`len(mi_lista)`{{execute}}
