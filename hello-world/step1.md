@@ -14,10 +14,13 @@ Para crear un archivo basta escribir en la terminal:
 
 `touch archivodeprueba.py`{{execute}}
 
+Pruebe copiando esto en su archivo:
+
+`print(1)`{{copy}}
 
 Para ejecutar el archivo escriba en consola:
 
 
 `python3 archivodeprueba.py`{{execute}}
 
-`print(1)`{{copy}}
+
