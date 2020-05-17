@@ -1,6 +1,7 @@
 ## Listas
 
-Las listas almacenan datos de cualquier tipo, no todos tienen que ser iguales. Cada dato en la lista tiene un indice que va de 0 a n, donde n es la cantidad de datos en la lista. La cantidad de datos en una lista es accesible a traves del comando len()
+Las listas almacenan datos de cualquier tipo, no todos tienen que ser iguales. 
+La cantidad de datos en una lista es accesible a traves del comando _len()_
 
 Este comando crea una lista vacía:
 
