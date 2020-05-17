@@ -40,11 +40,9 @@
       "text": "finish.md"
     }
   },
-  "environment": [{
+  "environment": {
     "uilayout": "editor-terminal"
-  },{
-    "uilayout": "terminal"
-  }],
+  },
   "backend": {
     "imageid": "python"
   }
