@@ -9,11 +9,14 @@ Si desea salir de la consola de python escriba:
 
 ```quit()```{{execute}}
 
+
 Para crear un archivo basta escribir en la terminal:
 
 ```touch archivodeprueba.py```{{execute}}
 
+
 Para ejecutar el archivo escriba en consola:
+
 
 ```python3 archivodeprueba.py```{{execute}}
 
