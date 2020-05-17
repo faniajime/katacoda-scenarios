@@ -1,4 +1,3 @@
-# 3. Variables 
 
 Las variables son contenedores a los que se les puede asignar un valor, un objeto, una sentencia.
 
