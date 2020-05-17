@@ -16,6 +16,12 @@
     },{
       "title": "Paso 4 - Variables",
       "text": "variables.md"
+    },{
+      "title": "Paso 5 - Operadores",
+      "text": "operadores.md"
+    }{
+      "title": "Paso 6 - Herramientas de control de flujo",
+      "text": "controlflujo.md"
     }],
     "intro": {
       "text": "intro.md",
