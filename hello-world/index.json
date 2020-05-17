@@ -52,6 +52,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "node6"
   }
 }
