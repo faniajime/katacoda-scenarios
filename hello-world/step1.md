@@ -16,3 +16,5 @@ Para crear un archivo basta escribir en la terminal:
 Para ejecutar el archivo escriba en consola:
 
 ```python3 archivodeprueba.py```{{execute}}
+
+```print(1)```{{copy}}
