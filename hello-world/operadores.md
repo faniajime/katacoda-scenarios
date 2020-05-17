@@ -1,4 +1,4 @@
-# 4. Operadores
+
 
 Los operadores se utilizan para realizar diferentes cómputos: (>,<, >=, +,/).
 
