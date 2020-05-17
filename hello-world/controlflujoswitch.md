@@ -24,4 +24,4 @@ def switch_demo(argumento):
 switch_demo(2) 
 ```{{execute}}
 
-Escriba diferentes valores dentro de _switch_demo()_
+Escriba diferentes valores dentro de *switch_demo()*
