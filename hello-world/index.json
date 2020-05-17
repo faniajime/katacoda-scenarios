@@ -31,6 +31,9 @@
     },{
       "title": "Paso 6 - Herramientas de control de flujo",
       "text": "controlflujotry.md"
+    },{
+      "title": "Paso 7 - Estructuras de datos",
+      "text": "listas.md"
     }],
     "intro": {
       "text": "intro.md",
