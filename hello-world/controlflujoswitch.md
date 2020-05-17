@@ -1,4 +1,4 @@
-#Switches
+##Switches
 Los switches no son tan naturales en Python como si en otros lenguajes de programacion. Los switches sirven para ejecutar una porcion de codigo u obtener un valor dado un caso.
 
 
