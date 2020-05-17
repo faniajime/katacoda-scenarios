@@ -14,7 +14,3 @@ Los operadores se utilizan para realizar diferentes cómputos: (>,<, >=, +,/).
 
 Escriba una expresión utilizando un operador con los números 3 y 6 que de como resultado True
 
-
-```python
-#Escriba su código aquí
-```{{execute}}
