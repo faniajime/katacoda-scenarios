@@ -44,7 +44,7 @@
     }
   },
   "environment": {
-    "icon": "fa-docker",
+    "icon": "fa-node",
     "showide": true,
     "idePort": 23000,
 
