@@ -7,7 +7,7 @@ Para esto escriba
 
 Si desea salir de la consola de python escriba:
 
-```python quit()```{{execute}}
+```quit()```{{execute}}
 
 Para crear un archivo basta escribir en la terminal:
 
