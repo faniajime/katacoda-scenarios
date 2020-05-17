@@ -25,6 +25,9 @@
     },{
       "title": "Paso 6 - Herramientas de control de flujo",
       "text": "controlflujoswitch.md"
+    },{
+      "title": "Paso 6 - Herramientas de control de flujo",
+      "text": "controlflujociclos.md"
     }],
     "intro": {
       "text": "intro.md",
