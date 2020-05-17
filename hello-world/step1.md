@@ -1,6 +1,8 @@
 # Bienvenido al training de Python del Innovation Center
 
-Lo primero que vamos a hacer es ejecutar la consola de Python. 
+Lo primero que vamos a hacer es correr la Python, esto se puede hacer en diferentes partes.
+
+**Desde la terminal**
 
 Para esto escriba 
 `python3`{{execute}}
@@ -9,6 +11,7 @@ Si desea salir de la consola de python escriba:
 
 `quit()`{{execute}}
 
+**Desde un IDE**
 
 Para crear un archivo basta escribir en la terminal:
 
