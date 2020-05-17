@@ -7,17 +7,17 @@ Para esto escriba
 
 Si desea salir de la consola de python escriba:
 
-```quit()```{{execute}}
+`quit()`{{execute}}
 
 
 Para crear un archivo basta escribir en la terminal:
 
-```touch archivodeprueba.py```{{execute}}
+`touch archivodeprueba.py`{{execute}}
 
 
 Para ejecutar el archivo escriba en consola:
 
 
-```python3 archivodeprueba.py```{{execute}}
+`python3 archivodeprueba.py`{{execute}}
 
-```print(1)```{{copy}}
+`print(1)`{{copy}}
