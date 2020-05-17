@@ -1,5 +1,5 @@
 
-# 2. Tipos de datos
+
 
 En Python existen cuatro tipos de datos: ints, floats, strings, o chars. Para comprobar el tipo de un dato basta con utilizar la instrucción type(), pruebe ejecutando las siguientes líneas.
 
