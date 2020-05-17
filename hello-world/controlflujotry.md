@@ -1,5 +1,5 @@
 
-##Try except
+## Try except
 
 
 Try, except, finally son ifs y elses que se ejecutan cuando ocurre un error conocido.
