@@ -2,29 +2,26 @@
 
 Las variables son contenedores a los que se les puede asignar un valor, un objeto, una sentencia.
 
+**Tipo string** 
 
 ```python
-#Tipo string
 x = "Hola humanos"
 print(x)
 ```{{execute}}
 
+**Tipo entero** 
 ```python
-#Tipo int
 x = 2
 x + 4
 ```{{execute}}
 
-
+**Tipo float** 
 ```python
-#Tipo float
 pi = 3.1451
 print(pi)
 ```{{execute}}
 
-    3.1451
-    
-
+**Tipo logico o booleano** 
 
 ```python
 #Tipo bool
@@ -33,3 +30,4 @@ Megustaaprender
 ```{{execute}}
 
 Asigne su propia variable y compruebe el tipo de valor que contiene usando type()
+
