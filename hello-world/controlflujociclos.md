@@ -1,4 +1,4 @@
-##Whiles y Fors
+## Whiles y Fors
 
 Los whiles son ciclos con un punto final, se ejecutan siempre que la premisa posterior sea verdadera.
 
