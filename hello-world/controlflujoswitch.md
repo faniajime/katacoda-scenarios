@@ -18,7 +18,6 @@ def switch_demo(argumento):
         11: 'Noviembre',
         12: 'Diciembre'
 }
-    
     print(switcher.get(argumento,'Mes invalido'))
     
 switch_demo(2) 
