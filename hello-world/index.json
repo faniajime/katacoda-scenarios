@@ -34,6 +34,29 @@
     },{
       "title": "Paso 7 - Estructuras de datos",
       "text": "listas.md"
+    },{
+      "title": "Paso 7 - Estructuras de datos",
+      "text": "tuplas.md"
+    },{
+      "title": "Paso 7 - Estructuras de datos",
+      "text": "sets.md",{
+      "title": "Paso 7 - Estructuras de datos",
+      "text": "diccionarios.md"
+    },{
+      "title": "Paso 8 - Funciones",
+      "text": "funciones.md"
+    },{
+      "title": "Paso 9 - Clases",
+      "text": "clases.md"
+    },{
+      "title": "Paso 10 - Herencia",
+      "text": "herencia.md"
+    },{
+      "title": "Paso 11 - Módulos",
+      "text": "modulos.md"
+    },{
+      "title": "Paso 12 - Recursividad",
+      "text": "recursive.md"
     }],
     "intro": {
       "text": "intro.md",
