@@ -1,4 +1,4 @@
-## 8. Clases
+## Clases
 
 Las funciones computacionales funcionan como las matematicas, reciben un elemento y entregan un resultado a partir del mismo.
 
