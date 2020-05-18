@@ -44,7 +44,6 @@
     }
   },
   "environment": {
-    "icon": "fa-node",
     "showide": true,
     "idePort": 23000,
 
